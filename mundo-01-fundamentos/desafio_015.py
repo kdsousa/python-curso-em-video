@@ -1,9 +1,7 @@
-# Faça um programa que leia o comprimento do cateto adjacente
-#  de um triângulo, calcule e mostre o comprimento da hipotenusa.
-
-import math 
-
-cateto_oposto = float(input('Digite o comprimento do cateto oposto: '))
-cateto_adjacente = float(input('Digite o comprimento do cateto adjacente: '))
-hipotenusa = math.hypot(cateto_oposto, cateto_adjacente)
-print(f'O comprimento da hipotenusa é: {hipotenusa:.2f}')
+# Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade
+# de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 
+# R$ 60 por dia e R$0,15 por Km rodado
+dias = int(input('Quantos dias alugados? '))
+km = float(input('Quantos Km rodados? '))
+pago = (dias * 60) + (km * 0.15)
+print(f'O total a pagar é de R${pago:.2f}')

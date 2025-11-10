@@ -1,8 +1,4 @@
-# Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
-# Ex: Digite um núero: 6.127
-# O número 6.127 tem a parte inteira 6.
-
-import math
-num = float(input('Digite um número real: '))
-num_inteiro = math.trunc(num)
-print(f'O número {num} tem a parte inteira {num_inteiro}')
+# Escreva um programa que comverta uma temperatura digitada em celcios e converta para fireheit
+c = float(input('Informe a temperatura em Celcios: '))
+f = ((9 * c) / 5) + 32
+print(f'A temperatura de {c} Celcios corresponde a {f} F!')
