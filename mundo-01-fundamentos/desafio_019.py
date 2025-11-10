@@ -1,6 +1,5 @@
 # Um professor quer sortear  um dos seus quatro alunos 
 # para apagar o quadro. faça um programa que ajuda ele, lendo o nome deles e escrevendo o nome do escolhido
-
 import random
 aluno1 = input('Primeiro aluno: ')
 aluno2 = input('Segundo aluno: ')
