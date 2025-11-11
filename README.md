@@ -35,14 +35,14 @@ A organização reflete a divisão do conteúdo do curso para facilitar a navega
 
 ### 🚀 Como Contribuir ou Navegar
 
-* **Organização:** Os arquivos de exercício geralmente seguem o padrão **`ex001.py`** (ou `ex001_nome_do_exercicio.py`), conforme a numeração do professor.
+* **Organização:** Os arquivos de exercício geralmente seguem o padrão **`desafio_001.py`**, conforme a numeração do professor.
 * **Sugestões:** Se encontrar um código que possa ser otimizado ou refatorado, por favor, abra uma **Issue** ou submeta um **Pull Request (PR)**.
 
 ---
 
 ### 📈 Status Atual
 
-Estou atualmente no **Mundo 01** do curso.
+Estou atualmente no **Mundo 02** do curso.
 
 ---
 
