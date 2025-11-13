@@ -40,7 +40,3 @@ elif escolha == 'PAPEL' and escolha_maquina == 'PAPEL':
 elif escolha == 'PAPEL' and escolha_maquina == 'TESOURA':
     print(f'Você jogou {escolha} e a máquina jogou {escolha_maquina}')
     print('PERDEU')
-
-
-
-
