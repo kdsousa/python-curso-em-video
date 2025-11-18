@@ -42,7 +42,7 @@ A organização reflete a divisão do conteúdo do curso para facilitar a navega
 
 ### 📈 Status Atual
 
-Estou atualmente no **Mundo 02** do curso.
+Estou atualmente no **Mundo 03** do curso.
 
 ---
 
