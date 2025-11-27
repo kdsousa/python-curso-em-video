@@ -4,7 +4,6 @@
 # B) Os últimos 4 colocados da tabela
 # C) Uma lista com os times em ordem alfabética.
 # D) Em que posição na tabela está o time da Mirassol.
-
 brasileirao_2025 = (
     "Atlético Mineiro",
     "Bahia",

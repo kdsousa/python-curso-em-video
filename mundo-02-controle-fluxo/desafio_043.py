@@ -4,7 +4,6 @@
 # - 25 até 30: Sobrepeso
 # - 30 até 40: Obesidade
 # - Acima de 40: Obesidade móirbida
-
 peso = float(input('Qual é seu peso? '))
 altura = float(input('Qual é a sua altura? '))
 imc = peso / (altura ** 2)
@@ -19,4 +18,4 @@ elif imc < 30:
 elif imc < 40:
     print('Você está com Obesidade')
 else:
-        print('Você está com Obesidade Mórbida')
+    print('Você está com Obesidade Mórbida')

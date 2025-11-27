@@ -5,10 +5,9 @@
 # [4] novos números
 # [5] sair do programa
 # Seu programa deverá realizar a operação solicitada em cada caso
-
-
 n1 = int(input('Digite o primeiro valor: '))
 n2 = int(input('Digite o primeiro valor: '))
+
 while n1 != 0 and n2 !=0:
     escolha = int(input("""
                         -----MENU-----

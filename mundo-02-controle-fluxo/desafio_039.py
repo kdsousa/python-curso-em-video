@@ -3,7 +3,6 @@
 # - Se é a hora de se alistar.
 # - Se já passou do tempo do alistamento
 # Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
-
 ano_nascimento = int(input('Digite o ano de nascimento: '))
 ano_atual = 2025
 idade = ano_atual - ano_nascimento

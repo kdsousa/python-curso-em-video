@@ -1,6 +1,6 @@
 # Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços
 # na sequência.
-# No final, mostre uma listagem de proços, organizando os dados em forma tabular.
+# No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 listagem = ('lápis', 1.75,
             'Borracha', 2,
             'Caderno', 15.90,
@@ -13,3 +13,4 @@ for pos in range(0, len(listagem)):
         print(f'{listagem[pos]:.<30}', end='')
     else:
         print(f'{listagem[pos]:>7.2f}', end='')
+        

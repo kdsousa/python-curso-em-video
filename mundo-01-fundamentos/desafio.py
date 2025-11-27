@@ -2,6 +2,7 @@
 dia = input('Digite o dia do seu nascimento: ')
 mes = input('Digite o mês de seu nascimento: ')
 ano = input('Digite o ano de nasciemnto: ')
+
 print(dia, end='/')
 print(mes, end='/')
 print(ano)

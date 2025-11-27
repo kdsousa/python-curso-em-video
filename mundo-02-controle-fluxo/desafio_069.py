@@ -3,8 +3,8 @@
 # A) quantas pessoas tem mais de 18 anos.
 # B) QUantos homens foram cadastrados.
 # C) Quantas mulheres tem menos de 20 anos.
-
 tot18 = totH = totM20 = 0
+
 while True:
     idade = int(input('Idade: '))
     sexo = ' '
