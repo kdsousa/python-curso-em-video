@@ -2,7 +2,6 @@
 # - Equilátero: Todos os lados iguais
 # - Isósceles: Dois lados iguais
 # - Escaleno: todos os lados diferentes
-
 r1 = float(input('Digite o primeiro segmento: '))
 r2 = float(input('Digite o segundo segmento: '))
 r3 = float(input('Digite o terceiro segmento: '))

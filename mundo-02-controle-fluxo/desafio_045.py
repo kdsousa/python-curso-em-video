@@ -1,5 +1,6 @@
 # Crie um programa que faça o computador jogar jokenpô com você
 import random
+
 print('Vamos jogar Jokenpô!')
 print('O nosso Jokenpô tem as Seguintes opções:')
 print('PAPEL')
@@ -13,6 +14,7 @@ escolha_maquina = random.choice(opcoes)
 print('JO')
 print('KEN')
 print('PO!!')
+
 if escolha == 'TESOURA' and escolha_maquina == 'PEDRA':
     print(f'Você jogou {escolha} e a máquina jogou {escolha_maquina}')
     print('PERDEU!')

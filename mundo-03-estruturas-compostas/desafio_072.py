@@ -11,4 +11,5 @@ while True:
     if 0 <= num <= 20:
         break
     print('Tente novamente')
-print(f'Você digitou o número {cont[0]}')
+    
+print(f'Você digitou o número {cont[num]}')

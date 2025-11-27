@@ -2,7 +2,6 @@
 # 1 para binário
 # 2 para octal
 # 3 para hexadecimal
-
 n = int(input('Digite o um número para conversão: '))
 
 print('1 - para converter para Binário')

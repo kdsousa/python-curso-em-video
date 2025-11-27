@@ -3,6 +3,7 @@
 # o maior e o menor valores lidos. O programa deve perguntar ao usuários se ele quer ou não digitar valores.
 resp = 'S'
 soma = quant = média = maior = menor = 0
+
 while resp in 'Ss':
     num = int(input('Digite um número: '))
     soma += 1
@@ -14,6 +15,8 @@ while resp in 'Ss':
         if num < menor:
             menor = num
     resp = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
+
 media = soma / quant
+
 print(f'Você digitou {quant} e a média foi {média}')
 print(f'O maior valor foi {maior} e o menor {menor}')

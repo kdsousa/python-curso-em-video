@@ -4,7 +4,6 @@
 # - à vista cartão: 5% de desconto
 # - em até 2x no cartão: preço normal
 # 3x ou mais no cartão: 20% de juros
-
 v_produto = float(input('Digite o valor do produto R$'))
 
 print('1 - Pagemento à vista dinheiro/cheque')

@@ -31,4 +31,5 @@ while True:
             break
         
     print('Vamos jogar novamente')
+    
 print(f'Você venceu {v} vezes.')

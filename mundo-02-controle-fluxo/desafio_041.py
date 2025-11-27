@@ -5,7 +5,6 @@
 # Até 19 anos: JUNIOR
 # Até 20 anos: SÊNIOR
 # Acima: MASTER
-
 ano_nascimento = int(input('Digite o ano de nascimento: '))
 ano_atual = 2025
 idade = ano_atual - ano_nascimento
